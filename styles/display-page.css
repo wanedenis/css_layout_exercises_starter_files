@@ -16,7 +16,17 @@ body{
 	font-size: 0;
 }
 
-.top{
+.top_{
+	height: 200px;
+	width: 50%;
+	display: inline-block;
+	font-size: 0;
+}
 
+.green{
+	background-color: green;
+}
 
+.green{
+	background-color: blue;
 }
