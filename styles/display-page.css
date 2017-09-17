@@ -21,12 +21,34 @@ body{
 	width: 50%;
 	display: inline-block;
 	font-size: 0;
+	border: 1px solid black;
 }
 
 .green{
 	background-color: green;
 }
 
-.green{
+.blue{
 	background-color: blue;
+}
+
+
+.bot{
+	height: 300px;
+	width: 33.33%;
+	display: inline-block;
+	font-size: 0;
+	border: 1px solid black;
+}
+
+.gray{
+	background-color: gray;
+}
+
+.black{
+	background-color: black;
+}
+
+.orange{
+	background-color: orange;
 }
