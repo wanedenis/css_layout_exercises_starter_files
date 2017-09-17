@@ -28,7 +28,6 @@ nav {
   padding-right: 60px;
   padding-left: 60px;
   border: 1px solid black;
-  text-align: right;
   position: relative;
   height: 50px;
 }
@@ -40,17 +39,25 @@ color: black;
 
 }
 
-nav li{
+nav ul{
+}
+
+nav a{
 
 color: blue;
+position: absolute;
+display: inline-block;
+width: 25%;
 
 }
 
 nav>img {
-	width: 36px;
-	height: 36px;
+	width: 32px;
+	height: 32px;
 	position: absolute;
 	left: 10px;
+	top: 0;
+	bottom: 0;
 	border-radius: 36px;
 	border: 1px solid black;
 }
