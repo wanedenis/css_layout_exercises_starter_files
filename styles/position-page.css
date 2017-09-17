@@ -32,22 +32,17 @@ nav {
   height: 50px;
 }
 
-nav li::after{
+nav a::after{
 
 content: " |";
 color: black;
 
 }
 
-nav ul{
-}
 
 nav a{
 
 color: blue;
-position: absolute;
-display: inline-block;
-width: 25%;
 
 }
 
