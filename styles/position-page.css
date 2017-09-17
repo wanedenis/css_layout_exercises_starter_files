@@ -39,7 +39,6 @@ color: black;
 
 }
 
-
 nav a{
 
 color: blue;
@@ -59,11 +58,7 @@ nav>img {
 
 .rect{
 	border: 10px green dotted;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: auto;
-	margin-bottom: auto;
-	position: absolute;
+	position: relative;
 	width: 600px;
 	height: 300px;
 }
